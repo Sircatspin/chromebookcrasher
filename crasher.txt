@@ -14,4 +14,4 @@ audio.onended = function(){
 audio.play();
 }
  
-window.open("https://i.ytimg.com/vi/RNoHcWE8tbQ/maxresdefault.jpg")
+window.open("https://static.wikia.nocookie.net/villains/images/1/17/SmileDog2ndHD.jpg/revision/latest?cb=20180204165734")
