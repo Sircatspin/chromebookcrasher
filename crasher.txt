@@ -14,4 +14,11 @@ audio.onended = function(){
 audio.play();
 }
  
+
 window.open("https://static.wikia.nocookie.net/villains/images/1/17/SmileDog2ndHD.jpg/revision/latest?cb=20180204165734")
+setTimeout()
+window.open("https://static.wikia.nocookie.net/villains/images/1/17/SmileDog2ndHD.jpg/revision/latest?cb=20180204165734")
+setTimeout()
+window.open("https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mychtar_and_his_Snowdog.jpg/290px-Mychtar_and_his_Snowdog.jpg")
+setTimeout()
+window.open("https://i.imgur.com/pkW2Bq9.jpeg")
